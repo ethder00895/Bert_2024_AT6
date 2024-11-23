@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------------------------------------------------------
+--
+-- Type:	            Class Object
+--
+-- Application:	   UserInputValidator.py
+--
+-- Description:	   The UserInputValidator class is designed to validate a list of strings to determine which ones represent 
+--                   valid positive integers. The class includes the following methods:
+--
+-- Made by:	         E. Derige	date: 23.11.2024
+--
+--------------------------------------------------------------------------------------------------------------------------------
+--
+-- Methods defined:
+--
+-- 1. validate_positive_integers(string_list):
+--    - Accepts a list of strings.
+--    - Checks each string to see if it represents a valid positive integer.
+--    - Returns a list of valid positive integers.
+--
+-- 2. display_message():
+--    - Displays a message indicating that the list has been validated.
+--
