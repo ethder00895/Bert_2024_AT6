@@ -13,3 +13,7 @@ class UserInputValidator:
                 valid_positive_integers.append(int(item))
                 
         return valid_positive_integers
+    
+    # Commit 1 - to be added
+    def display_message(self):
+        print("The list has been validated.")
